@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-unsplash",
+  "version": "0.1.0",
+  "description": "Unsplash's ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --config eslintrc.json test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsplash/javascript.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "unsplash",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Naoufal Kadhom <naoufal@unsplash.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unsplash/javascript/issues"
+  },
+  "homepage": "https://github.com/unsplash/javascript#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}

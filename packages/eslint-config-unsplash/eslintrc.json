@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "comma-dangle": [2, "never"],
+    "no-undef": 2,
+    "max-len": [2, 80, 2, { "ignoreUrls": true }],
+    "yoda": [2, "never"],
+    "no-multiple-empty-lines": [2, {"max": 1, "maxEOF": 1}],
+    "jsx-quotes": [2, "prefer-double"],
+    "no-console": 1,
+    "no-alert": 1
+  }
+}
