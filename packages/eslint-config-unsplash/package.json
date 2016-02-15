@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unsplash",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Unsplash's ESLint Config",
   "main": "index.js",
   "scripts": {
