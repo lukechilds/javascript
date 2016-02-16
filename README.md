@@ -289,3 +289,6 @@ Our guide is based off the excellent [Airbnb JavaScript Style Guide](https://git
 
 #### Blocks
 - [One True Brace Style](https://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)
+
+#### Promises
+- [We have a problem with Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
