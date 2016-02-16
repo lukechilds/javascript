@@ -71,5 +71,5 @@ which node
 > Install ESLint, Babel ESLint and the Unsplash Config
 
 ```
-npm i -g eslint@1.* babel-eslint eslint-config-unsplash
+npm i -g eslint@1.* babel-eslint eslint-config-unsplash eslint-plugin-react
 ```
