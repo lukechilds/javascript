@@ -10,17 +10,11 @@ So you want in-editor linting?
 
 ```vim
 Plug 'scrooloose/syntastic'
+Plug 'pmsorhaindo/syntastic-local-eslint.vim'
 ```
 
 > Install the plugin
 
 ```vim
 :PlugInstall
-```
-
-## ESLint
-> Install ESLint, Babel ESLint and the Unsplash Config
-
-```
-npm i -g eslint@1.* babel-eslint eslint-config-unsplash eslint-plugin-react
 ```
