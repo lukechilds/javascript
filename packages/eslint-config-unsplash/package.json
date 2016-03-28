@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-unsplash",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Unsplash's ESLint Config",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,9 @@
     "url": "https://github.com/unsplash/javascript/issues"
   },
   "homepage": "https://github.com/unsplash/javascript#readme",
-  "dependencies": {
-    "eslint-config-airbnb": "^5.0.1"
-  },
-  "devDependencies": {
-    "eslint": "^1.10.3"
+  "peerDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.1",
+    "eslint-plugin-react": "^4.2.3"
   }
 }
