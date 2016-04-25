@@ -1,5 +1,5 @@
 # Unsplash JavaScript Style Guide
-*How we like to JavasScript at [Unsplash](https://www.unsplash.com)*.
+*How we like to JavasScript at [Unsplash](https://unsplash.com)*.
 
 ## Table of Contents
 - [Airbnb JavaScript Style Guide](https://github.com/unsplash/javascript#airbnb-javascript-style-guide)
