@@ -56,9 +56,9 @@ Our guide is based off the excellent [Airbnb JavaScript Style Guide](https://git
   $(window).on("scroll", doSomething);
 
   // good
-  import $ form "jquery";
+  import $ from "jquery";
 
-  $(wdinow).on("scroll", doSomething);
+  $(window).on("scroll", doSomething);
   ```
 
 #### Comparison Operators & Equality
